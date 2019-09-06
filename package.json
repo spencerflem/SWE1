@@ -2,12 +2,21 @@
   "name": "Bootcamp Assignment #2",
   "version": "2.0.0",
   "description": "Persisting data using MongoDB and Mongoose",
-  "main": "index.js",
+  "main": "queries.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Medhir Bhargava & Christina Gardner-McCune",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerflem/SWE1.git"
+  },
+  "keywords": [],
+  "author": "Medhir Bhargava & Christina Gardner-McCune & Spencer Fleming",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spencerflem/SWE1/issues"
+  },
+  "homepage": "https://github.com/spencerflem/SWE1#readme",
   "dependencies": {
     "mongoose": "^4.2.9"
   },
